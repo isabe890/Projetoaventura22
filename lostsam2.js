@@ -16,7 +16,7 @@ let gameState = {
     B: {
         title: "Você escolheu a trilha da direita",
         story: "Você segue pela trilha escura e percebe pegadas misteriosas no chão. Elas parecem levar até uma caverna.",
-        image: "https://media.istockphoto.com/id/153752095/pt/foto/selva-profunda.jpg",
+        image: "https://media.istockphoto.com/id/153752095/pt/foto/selva-profunda.jpg?s=612x612&w=0&k=20&c=mQ4rxWzjNnzJWrDXMj93LJyz47ydOvyNJrhc3kl-gnI=",
         choices: {
             E: "Seguir as pegadas para dentro da caverna.",
             F: "Ignorar as pegadas e seguir em frente."
